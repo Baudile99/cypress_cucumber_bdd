@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6410","Successful login with valid credentials","","Tue Jun 24 12:42:57 WAT 2025","passed","Tue Jun 24 12:43:04 WAT 2025","","User login","",""
+"","7423","Usnsuccessful login with invalid credentials (example #1)","","Tue Jun 24 12:43:04 WAT 2025","passed","Tue Jun 24 12:43:12 WAT 2025","","User login","",""
+"","2893","Usnsuccessful login with invalid credentials (example #3)","","Tue Jun 24 12:43:15 WAT 2025","passed","Tue Jun 24 12:43:18 WAT 2025","","User login","",""
+"","3043","Usnsuccessful login with invalid credentials (example #2)","","Tue Jun 24 12:43:12 WAT 2025","passed","Tue Jun 24 12:43:15 WAT 2025","","User login","",""
+"","3601","Usnsuccessful login with invalid credentials (example #4)","","Tue Jun 24 12:43:18 WAT 2025","passed","Tue Jun 24 12:43:22 WAT 2025","","User login","",""
